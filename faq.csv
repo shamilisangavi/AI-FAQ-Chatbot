@@ -1,0 +1,82 @@
+Question,Answer
+Hello,Hello! How can I help you today?
+Hi,Hi! Welcome to the AI FAQ Chatbot.
+How are you?,I am doing great. Thank you for asking.
+What is AI?,Artificial Intelligence is the simulation of human intelligence by machines.
+Who developed AI?,Artificial Intelligence was developed over many years by many researchers. Alan Turing is one of its pioneers.
+Who is the father of AI?,John McCarthy is known as the Father of Artificial Intelligence.
+What is Machine Learning?,Machine Learning is a branch of AI that enables computers to learn from data.
+Who developed Machine Learning?,Arthur Samuel is considered one of the pioneers of Machine Learning.
+Who is the father of Machine Learning?,Arthur Samuel is known as the Father of Machine Learning.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning that uses neural networks.
+Who developed Deep Learning?,Geoffrey Hinton is one of the pioneers of Deep Learning.
+Who is the father of Deep Learning?,Geoffrey Hinton is known as the Father of Deep Learning.
+What is Python?,Python is a high-level programming language.
+Who developed Python?,Python was developed by Guido van Rossum.
+Who is the father of Python?,Guido van Rossum created Python in 1991.
+What is Java?,Java is an object-oriented programming language.
+Who developed Java?,Java was developed by James Gosling.
+Who is the father of Java?,James Gosling is known as the Father of Java.
+What is C?,C is a procedural programming language.
+Who developed C language?,Dennis Ritchie developed the C programming language.
+Who is the father of C?,Dennis Ritchie is known as the Father of C.
+What is C++?,C++ is an extension of the C programming language.
+Who developed C++?,C plus plus was developed by Bjarne Stroustrup.
+Who is the father of C++?,Bjarne Stroustrup is known as the Father of C plus plus.
+What is C#?,C sharp is an object-oriented programming language developed by Microsoft.
+Who developed C#?,C sharp was developed by Microsoft under Anders Hejlsberg.
+What is JavaScript?,JavaScript is used to make websites interactive.
+Who developed JavaScript?,JavaScript was created by Brendan Eich.
+Who is the father of JavaScript?,Brendan Eich created JavaScript.
+What is HTML?,HTML is the standard language used to create web pages.
+Who developed HTML?,HTML was developed by Tim Berners-Lee.
+What is CSS?,CSS is used to style web pages.
+Who developed CSS?,CSS was proposed by Hakon Wium Lie.
+What is SQL?,SQL is used to manage relational databases.
+Who developed SQL?,SQL was developed by Donald Chamberlin and Raymond Boyce.
+What is Git?,Git is a distributed version control system.
+Who developed Git?,Git was created by Linus Torvalds.
+What is GitHub?,GitHub is a cloud platform for hosting Git repositories.
+Who developed GitHub?,GitHub was created by Tom Preston Werner and his co founders.
+What is Linux?,Linux is an open-source operating system.
+Who developed Linux?,Linux was created by Linus Torvalds.
+What is Windows?,Windows is an operating system developed by Microsoft.
+Who developed Windows?,Microsoft developed the Windows operating system.
+What is TensorFlow?,TensorFlow is an open-source machine learning library.
+Who developed TensorFlow?,TensorFlow was developed by Google.
+What is PyTorch?,PyTorch is an open-source deep learning framework.
+Who developed PyTorch?,PyTorch was developed by Meta AI.
+What is NumPy?,NumPy is a Python library for numerical computing.
+Who developed NumPy?,NumPy was created by Travis Oliphant.
+What is Pandas?,Pandas is a Python library for data analysis.
+Who developed Pandas?,Pandas was created by Wes McKinney.
+What is Flask?,Flask is a lightweight Python web framework.
+Who developed Flask?,Flask was created by Armin Ronacher.
+What is Django?,Django is a high-level Python web framework.
+Who developed Django?,Django is maintained by the Django Software Foundation.
+What is OpenAI?,OpenAI is an artificial intelligence research company.
+Who developed OpenAI?,OpenAI was founded by Elon Musk and Sam Altman along with other co founders.
+Who developed ChatGPT?,ChatGPT was developed by OpenAI.
+What is ChatGPT?,ChatGPT is an AI chatbot developed by OpenAI.
+What is NLP?,Natural Language Processing enables computers to understand human language.
+What is Computer Vision?,Computer Vision enables computers to understand images and videos.
+What is Data Science?,Data Science extracts useful insights from data.
+What is Cloud Computing?,Cloud Computing delivers computing services over the internet.
+What is Cyber Security?,Cyber Security protects computer systems and networks from attacks.
+What is Blockchain?,Blockchain is a decentralized digital ledger.
+What is IoT?,The Internet of Things connects smart devices through the internet.
+What is Big Data?,Big Data refers to extremely large datasets used for analysis.
+What is Generative AI?,Generative AI creates text images audio and code using AI models.
+What is API?,API stands for Application Programming Interface.
+What is Database?,A database is an organized collection of data.
+What is Operating System?,An operating system manages computer hardware and software.
+What is Compiler?,A compiler converts source code into machine code.
+What is Interpreter?,An interpreter executes source code line by line.
+What is Software?,Software is a collection of programs and instructions.
+What is Hardware?,Hardware refers to the physical components of a computer.
+What is RAM?,RAM is temporary memory used by a computer.
+What is ROM?,ROM stores permanent instructions.
+What is CPU?,CPU is the brain of the computer.
+What is GPU?,GPU is used for graphics processing and AI computations.
+Thank you,You are welcome.
+Bye,Goodbye. Have a great day.
